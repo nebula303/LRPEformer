@@ -4,6 +4,8 @@ This is a PyTorch implementation of LRPEformer model and discussion experiments 
 
 ## 1.Overview
 ![Example Image](imgs/fig1.png)
+Fig.1 An overview of LRPEformer model.
+Our study presents an Ultra-Long-Term Early Prediction model, LRPEformer (LSTM Relative Position Encoding Informer), to predict battery State of Health and significantly reduce the time cost of experiments. We perform unified sequence modeling for lithium-ion batteries under various charge-discharge strategies.We introduce complex temporal feature extraction and optimize the formula for calculating attention scores, effectively modeling ultra-long and complex temporal information. We also propose a two-stage training method, modeling and predicting dependent features and target features separately, reducing error accumulation during iterative prediction.
 
 
 ## Requirements
