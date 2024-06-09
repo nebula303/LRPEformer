@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 # Data-Driven Ultra-Long-Term Early Prediction of Lithium-Ion Battery State of Health Under Different Charge-Discharge Strategies
 
 This is a PyTorch implementation of LRPEformer model and discussion experiments proposed by our paper "Data-Driven Ultra-Long-Term Early Prediction of Lithium-Ion Battery State of Health Under Different Charge-Discharge Strategies".
 
-## 使用场景
-* 时间序列预测
-* 股票预测
-* 市场预测
-* 电力预测
-* 天气预测
-* ....
+## 1.Overview
+![Example Image](imgs/fig1.png)
+
 
 ## Requirements
 - torch_lts
