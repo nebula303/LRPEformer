@@ -27,9 +27,6 @@ conda env create -f torch_lts.yaml
 
 ## 3.Data
 You can find the processed data for this work in the data folder, or obtain the original data from the following table using the reference URL.
-| Data Source       | Description                                      | Reference URL                              |
-| ----------------- | ------------------------------------------------ | ------------------------------------------ |
-| Nature Battery(Closed-loop optimization of extreme fast charging for batteries using machine learning)    | The objective of this work is to optimize fast charging for lithium-ion batteries. | [https://data.matr.io/1](https://data.matr.io/1) |
 
 <table>
   <tr>
@@ -39,11 +36,13 @@ You can find the processed data for this work in the data folder, or obtain the 
   </tr>
   <tr>
     <td>Nature Battery(Closed-loop optimization of extreme fast charging for batteries using machine learning) </td>
-    <td>The objective of this work is to optimize fast charging for lithium-ion batteries.</td>
+    <td>The objective of this work is to optimize fast charging for lithium-ion batteries. It consists of commercial lithium-ion batteries cycled under fast-charging conditions.</td>
     <td><a href="https://data.matr.io/1">https://data.matr.io/1</a></td>
   </tr>
 </table>
 
+## 4.Training and Testing
+You can perform univariate autoregressive prediction on dependent features and multivariate autoregressive prediction on the target feature (Qd) in the four files: 'natureMain(Target_min,Parameter_min).ipynb', 'natureMain(Target_Qd,Parameter_min_Qd).ipynb', 'SDMain(Target_Δη,Parameter_Δη).ipynb', and 'SDMain(Target_Qd,Parameter_Δη_Qd).ipynb'. Some experimental results are shown below, demonstrating that our proposed LRPEformer significantly outperforms Informer.
 
 
 
