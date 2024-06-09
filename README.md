@@ -27,6 +27,9 @@ conda env create -f torch_lts.yaml
 
 ## 3.Data
 You can find the processed data for this work in the data folder, or obtain the original data from the following table using the reference URL.
+| Data Source       | Description           | Reference URL                  |
+| ----------------- | --------------------- | ------------------------------ |
+| Nature Battery    | The objective of this work is to optimize fast charging for lithium-ion batteries .| /data/processed_data.csv      |
 
 
 
