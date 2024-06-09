@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # informer_ChineseNotes
 
 ![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
@@ -107,3 +108,7 @@ https://github.com/TonyEinstein/informer_ChineseNotes/issues/4
 
 
 
+=======
+# LRPEformer
+LRPEformer
+>>>>>>> 273ac90ecc6e311f6229e15a5876a832881ff07a
