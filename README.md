@@ -1,12 +1,7 @@
 <<<<<<< HEAD
-# informer_ChineseNotes
+# Data-Driven Ultra-Long-Term Early Prediction of Lithium-Ion Battery State of Health Under Different Charge-Discharge Strategies
 
-![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
-![PyTorch LTS](https://img.shields.io/badge/PyTorch-lts%20-%23EE4C2C.svg?style=plastic)
-![cudatoolkit 11.1](https://img.shields.io/badge/cudatoolkit-11.1-green.svg?style=plastic)
-
-[informer_ChineseNotes](https://github.com/TonyEinstein/informer_ChineseNotes) has added Chinese annotations and some visual additions to the [informer2020](https://github.com/zhouhaoyi/Informer2020) project.
-
+This is a PyTorch implementation of LRPEformer model and discussion experiments proposed by our paper "Data-Driven Ultra-Long-Term Early Prediction of Lithium-Ion Battery State of Health Under Different Charge-Discharge Strategies".
 
 ## 使用场景
 * 时间序列预测
