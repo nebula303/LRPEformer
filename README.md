@@ -42,7 +42,6 @@ You can find the processed data for this work in the data folder, or obtain the 
 </table>
 
 ## 4.Training and Testing
-You can perform univariate autoregressive prediction on dependent features and multivariate autoregressive prediction on the target feature (Qd) in the four files: 'natureMain(Target_min,Parameter_min).ipynb', 'natureMain(Target_Qd,Parameter_min_Qd).ipynb', 'SDMain(Target_Δη,Parameter_Δη).ipynb', and 'SDMain(Target_Qd,Parameter_Δη_Qd).ipynb'. Some experimental results are shown below, demonstrating that our proposed LRPEformer significantly outperforms Informer.
-
+You can perform univariate autoregressive prediction on dependent features and multivariate autoregressive prediction on the target feature (Qd) in the four files: 'natureMain(Target_min,Parameter_min).ipynb', 'natureMain(Target_Qd,Parameter_min_Qd).ipynb', 'SDMain(Target_Δη,Parameter_Δη).ipynb', and 'SDMain(Target_Qd,Parameter_Δη_Qd).ipynb'. 
 
 
