@@ -26,7 +26,7 @@ conda env create -f torch_lts.yaml
 ```
 
 ## 3.Data
-You can find the processed data for this work in the data folder, or obtain the original data from the following table using the reference URL.
+You can obtain the original data from the following table using the reference URL.
 
 <table>
   <tr>
